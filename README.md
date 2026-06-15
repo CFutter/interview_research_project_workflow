@@ -1,5 +1,5 @@
 # Oral History Workflow
-
+**Prototype — treat all content as unverified and check it against authoritative sources before relying on it.**
 A standalone, tier-adaptive workflow tool for sensitive interview research. It walks a researcher through the full project lifecycle — from planning to closure — and adapts every recommendation to the project's **data sensitivity tier (1–5)**.
 
 It is a practical companion to the SEC-HUM *Sensitive Research Data Guide*, developed for oral history at the University of Zurich and applicable to interview-based research more broadly.
