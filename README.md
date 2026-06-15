@@ -47,6 +47,6 @@ To embed this inside the main SEC-HUM MkDocs site rather than hosting it standal
 
 ## Disclaimer
 
-This tool offers **practical guidance, not legal advice**. It reflects Swiss federal law (nFADP), Zurich cantonal law (IDG), and international oral history standards, but project-specific questions should go to the UZH Delegate for Data Protection (datenschutz@dsd.uzh.ch) or your faculty's ethics committee.
+This tool offers **practical guidance, not legal advice**.
 
 SEC-HUM is funded by swissuniversities (Open Science).
